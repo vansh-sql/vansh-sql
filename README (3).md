@@ -1,7 +1,8 @@
 # Vansh Pratap Singh
 
 **MIS Executive → Aspiring Data Analyst**  
-Delhi, India · [LinkedIn](https://linkedin.com/in/your-link) · [GitHub](https://github.com/vansh-sql)
+Delhi, India · [LinkedIn](www.linkedin.com/in/
+vansh-singh-data-analyst) · [GitHub](https://github.com/vansh-sql)
 
 ---
 
