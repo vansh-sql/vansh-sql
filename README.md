@@ -43,10 +43,7 @@ Hospital data analyzed using SQL — patient records, department-wise reporting,
 
 ---
 
-### [python-calculator](https://github.com/vansh-sql/python-calculator)
-My first Python project. A simple command-line calculator. Nothing fancy — but it's where I started, and I'm documenting every step of this learning journey.
 
----
 
 ### [vansh-portfolio](https://github.com/vansh-sql/vansh-portfolio)
 A personal portfolio site built in HTML. Showcases my work as an MIS professional transitioning into data analytics.
