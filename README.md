@@ -34,17 +34,20 @@ Currently building practical skills in SQL, data analytics, dashboard developmen
 
 ### 📌 Featured Projects
 
-**01 · Sales Analytics Dashboard**
+**01 · Superstore Sales & Profit Analysis | Power BI**
 
-[View Repository →](https://github.com/vansh-sql/sales-analytics-dashboard)
+[View Repository →](https://github.com/vansh-sql/superstore-sales-profit-analysis)
 
-An interactive dashboard for exploring sales performance through KPIs, charts, and dynamic filters.
+An interactive Power BI report designed to analyze retail sales performance, profitability, product categories, customer segments, shipping modes, and geographic sales distribution.
 
-- Interactive KPI cards and analytical charts
-- Cross-filtering and dynamic visualizations
-- Business-focused sales performance analysis
+- KPI analysis covering sales, profit margin, orders, and quantity sold
+- Monthly sales trends and category-level comparisons
+- Product and sub-category performance analysis
+- Discount versus profit analysis
+- Geographic sales comparisons across countries and states
+- Interactive visualizations for exploring business performance
 
-`JavaScript` `Chart.js` `HTML` `CSS`
+**Tools:** Power BI · Power Query · DAX
 
 **02 · Helpdesk Ticket System**
 
@@ -105,4 +108,3 @@ My focus is on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-singh-data-analyst/)
 [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vansh-sql)
-
