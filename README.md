@@ -4,7 +4,7 @@
 
 I work with operational data, reporting workflows, and spreadsheet automation. My experience in MIS has motivated me to explore how data analysis and automation can improve reporting, identify patterns, and support better business decisions.
 
-Currently building practical skills in SQL, data analytics, dashboard development, and Python through hands-on projects.
+Currently strengthening my SQL and data analytics skills through hands-on projects, while learning Python for practical data analysis.
 
 [LinkedIn](https://www.linkedin.com/in/vansh-singh-data-analyst/) · [Repositories](https://github.com/vansh-sql?tab=repositories)
 
@@ -19,8 +19,7 @@ Currently building practical skills in SQL, data analytics, dashboard developmen
 
 **SQL & Data Analytics**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Automation & Development**
@@ -62,7 +61,26 @@ A role-based ticket management system designed to organize support requests and 
 
 `Google Apps Script` `Google Sheets` `Google Forms`
 
-**03 · Online Bookstore SQL Analysis**
+**03 · Zepto Inventory & Pricing Analysis | MySQL**
+
+[View Repository →](https://github.com/vansh-sql/zepto-inventory-sql-analysis)
+
+A SQL-based analysis of a quick-commerce inventory dataset focused on product pricing, discounts, stock availability, and estimated inventory value.
+
+- Data exploration, quality checks, and pricing data cleaning
+- Category-level analysis of discounts and stock availability
+- Estimated inventory value based on selling price and available quantity
+- Stock-out rate and inventory risk analysis
+- Price-per-gram comparisons and customer savings analysis
+- Advanced SQL queries using CTEs, window functions, and ranking
+
+**Tools:** MySQL · SQL · MySQL Workbench
+
+**Dataset:** [Zepto Inventory Dataset on Kaggle](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset)
+
+*Note: The dataset is sourced from Kaggle and should not be interpreted as Zepto's internal company data. Estimated inventory value is not actual sales revenue.*
+
+**04 · Online Bookstore SQL Analysis**
 
 [View Repository →](https://github.com/vansh-sql/Online-Bookstore-SQL)
 
@@ -72,19 +90,7 @@ A SQL project exploring bookstore data through business-oriented analytical quer
 - Joins, aggregations, and subqueries
 - Product performance and top-selling products
 
-`PostgreSQL` `SQL`
-
-**04 · Hospital Data Analysis**
-
-[View Repository →](https://github.com/vansh-sql/sql-hospital-project)
-
-A SQL project focused on hospital data analysis and operational reporting.
-
-- Patient and department-level analysis
-- Filtering, grouping, and aggregate functions
-- Date-based queries and structured reporting
-
-`PostgreSQL` `SQL`
+`MySQL` `SQL`
 
 ---
 
@@ -97,7 +103,7 @@ My focus is on:
 - Writing reliable SQL queries to answer business questions
 - Developing clear, useful dashboards and reports
 - Improving data quality and reporting workflows
-- Applying Python to practical data analysis problems
+- Learning Python for practical data analysis
 - Building automation that reduces repetitive work
 
 **Career direction:** MIS & Operations → Data Analytics & Automation
@@ -107,4 +113,3 @@ My focus is on:
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-singh-data-analyst/)
-
