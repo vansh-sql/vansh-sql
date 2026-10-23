@@ -90,7 +90,7 @@ A SQL project exploring bookstore data through business-oriented analytical quer
 - Joins, aggregations, and subqueries
 - Product performance and top-selling products
 
-`MySQL` `SQL`
+`Post-gre` `SQL`
 
 ---
 
@@ -106,7 +106,7 @@ My focus is on:
 - Learning Python for practical data analysis
 - Building automation that reduces repetitive work
 
-**Career direction:** MIS & Operations → Data Analytics & Automation
+**Professional Focus:** Data Analytics · Business Reporting · Automation
 
 ---
 
